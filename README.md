@@ -10,7 +10,7 @@ A simple Django Rest Framework API
 
 ### Dependencies
 
-* Python 11
+* Python 11+
 * Django 5
 
 ### Installing
